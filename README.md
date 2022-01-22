@@ -21,10 +21,10 @@ For the NLP implementation code –
   -	Performed One Hot Encoding for labels(y_test).
   -	Performed Train and Test Split.
   -	Trained model using Naive Bayes classifier.
-  -	From sklearn we imported metrics to calculate how good our model was working:
-      No. of features  Accuracy
+  -	From sklearn we imported metrics to calculate how good our model was working:  
+      No. of features  Accuracy  
     -         2000     0.9838565022421525
-    -        	3000     0.9838565022421525
+    -         3000     0.9838565022421525
     -         4000     0.9838565022421525
     -  	      5000     0.9847533632286996
 
