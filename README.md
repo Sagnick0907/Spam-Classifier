@@ -22,7 +22,7 @@ For the NLP implementation code –
   -	Performed Train and Test Split.
   -	**Trained model** using **Naive Bayes classifier**.
   -	From sklearn we imported **metrics** to calculate how good our model was working:  
-    - No. of features Selected    Accuracy  
+     No. of features Selected    **Accuracy**   
     -         2000     0.9838565022421525
     -         3000     0.9838565022421525
     -         4000     0.9838565022421525
