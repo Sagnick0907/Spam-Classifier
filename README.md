@@ -31,7 +31,7 @@ For the NLP implementation code –
 
 
 ## Technologies Used
-•	Spyder IDE
-•	ML model: Naive Bayes classifier (Selected)
-•	Libraries: pandas, re, nltk, sk-learn.
+- Spyder IDE
+-	ML model: Naive Bayes classifier (Selected)
+-	Libraries: pandas, re, nltk, sk-learn.
 
