@@ -6,7 +6,9 @@
   * [Technologies Used](#technologies-used)
 
 ## Overview
-This is a Spam Classifier trained with Naive Bayes classifier. 
+This project is divided into 2 parts, a Spam Classifier 
+- Trained with **Naive Bayes classifier**.
+- Trained on a **Custom ditil-bert Model**. 
 ![image](https://user-images.githubusercontent.com/76872499/150648250-61ed0d7d-2f5a-4f51-bbc9-91bf36c78881.png)
 
 ## Technical Aspect
