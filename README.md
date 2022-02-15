@@ -14,7 +14,7 @@ This project is divided into 2 parts, a Spam Classifier
 ## Technical Aspect
 Dataset: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection  
 Given below are the steps taken to build the model:  
-For the NLP implementation code –
+For the NLP(Naive Bayes classifier) implementation code –
   - Imported necessary **Python libraries** (Pandas, re, nltk, sklearn, etc.)
   -	Imported the Dataset and **split** it into labels & messages.
   -	In **Data cleaning** & **Text pre-processing** Section, we removed unnecessary symbols & numbers. We lower cased all sentences & split sentences into words.
