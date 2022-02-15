@@ -8,7 +8,7 @@
 ## Overview
 This project is divided into 2 parts, a Spam Classifier 
 - Trained with **Naive Bayes classifier**.
-- Trained on a **Custom ditil-bert Model**. 
+- Trained on a **Custom ditil-bert Model** ( Accuracy = 1.00 ).    
 ![image](https://user-images.githubusercontent.com/76872499/150648250-61ed0d7d-2f5a-4f51-bbc9-91bf36c78881.png)
 
 ## Technical Aspect
